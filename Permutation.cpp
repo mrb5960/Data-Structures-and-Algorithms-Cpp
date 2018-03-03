@@ -29,9 +29,9 @@ bool isPermutation(string s1, string s2){
 	return true;
 }
 
-int main(){
+/*int main(){
 	string s1 = "helll";
 	string s2 = "olleh";
 	cout << isPermutation(s1,s2) << endl;
 	return 0;
-}
+}*/
