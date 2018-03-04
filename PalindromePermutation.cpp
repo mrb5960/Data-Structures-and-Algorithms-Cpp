@@ -32,8 +32,8 @@ bool isPP(char str[], int size){
 	return true;
 }
 
-int main(){
+/*int main(){
 	char str[] = "Tact coa";
 	cout << isPP(str, 9) << endl;
 	return 0;
-}
+}*/
