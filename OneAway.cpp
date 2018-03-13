@@ -51,9 +51,9 @@ bool isOneAway(char str1[], int size1, char str2[], int size2){
 }
 
 
-int main(){
+/*int main(){
 	char str1[] = "pale";
 	char str2[] = "bale";
 	cout << isOneAway(str1, 4, str2, 4);
 	return 0;
-}
+}*/

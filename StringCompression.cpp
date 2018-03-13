@@ -34,7 +34,7 @@ char *getCompressedString(char str[], int size){
 	return out;
 }
 
-int main(){
+/*int main(){
 	char str[] = "aabcccccaaa";
 	int size = sizeof(str)/sizeof(str[0]);
 	cout << "size " << size << endl;
@@ -45,4 +45,4 @@ int main(){
 		i++;
 	}
 	return 0;
-}
+}*/
